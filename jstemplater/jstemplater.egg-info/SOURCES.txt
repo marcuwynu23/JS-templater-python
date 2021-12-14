@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+jstemplater/jstemplater.py
+jstemplater/jstemplater.egg-info/PKG-INFO
+jstemplater/jstemplater.egg-info/SOURCES.txt
+jstemplater/jstemplater.egg-info/dependency_links.txt
+jstemplater/jstemplater.egg-info/top_level.txt
