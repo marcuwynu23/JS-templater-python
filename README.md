@@ -1,2 +1,2 @@
 # JS-templater
-View Engine use pure DOM javascript in web development
+View Engine written in python3 use pure DOM javascript in web development for flask web development
