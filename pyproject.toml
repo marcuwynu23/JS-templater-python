@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jstemplater"
+version = "1.0.0"
+description = "Javascript Template Engine for web development"
+readme = "README.md"
+requires-python = ">=3.6"
+license = {text = "See LICENSE file"}
+authors = [
+    {name = "Mark Wayne B. Menorca"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Framework :: Flask",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["flask", "javascript", "template", "engine", "dom", "rendering"]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/JS-templater-python"
+Documentation = "https://github.com/yourusername/JS-templater-python#readme"
+Repository = "https://github.com/yourusername/JS-templater-python"
+Issues = "https://github.com/yourusername/JS-templater-python/issues"
+
+[tool.setuptools]
+packages = ["jstemplater"]
+
